@@ -1,0 +1,5 @@
+l5kit
+numpy
+tensorflow==2.1.0
+sklearn
+matplotlib
